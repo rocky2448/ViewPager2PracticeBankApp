@@ -1,0 +1,15 @@
+<resources>
+<string name="app_name">Mobile Bank Offshor</string>
+<string name="start">Начать</string>
+<string name="signup">Регистрация</string>
+<string name="username">Username</string>
+<string name="password">Password</string>
+<string name="signin">Вход</string>
+<string name="bank_offshor">Банк Офшор</string>
+<string name="schet">Ваш счёт: 4876 8794 3465 3467</string>
+<string name="balance">Баланс: $666 666 666</string>
+<string name="ferrary_350z">Оплатить Феррари</string>
+<string name="buy_island">Купить остров</string>
+<string name="obnal">Обналичить пару лямов</string>
+    <string name="buy_villa">Купить виллу в Майями</string>
+</resources>
